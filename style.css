@@ -1,0 +1,30 @@
+body {
+    background-image: url(dark.png);
+    background-repeat: repeat;
+    transition: all 1s;
+    }
+
+
+body,
+h1,
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding-top: 80px;
+}
+
+hr {
+    width: 650px;
+    border-bottom: 1px solid white;
+}
+
+.quote-box {
+    border: 2px dashed white;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 15px;
+}
